@@ -9,15 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/font": "14.2.15",
-    "@types/node": "22.10.7",
-    "@types/react": "19.0.7",
-    "@types/react-dom": "19.0.3",
-    "eslint": "9.18.0",
-    "eslint-config-next": "15.1.5",
-    "next": "15.1.5",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
-    "typescript": "5.7.3"
+    "@next/font": "13.1.6",
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.6",
+    "next": "13.5.8",
+    "nuvo-react": "2.14.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "next-transpile-modules": "10.0.1"
   }
 }
